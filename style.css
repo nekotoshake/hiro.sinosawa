@@ -49,13 +49,13 @@ header {
 .logo {
     font-family: 'Mochiy Pop One', cursive;
     font-size: 2.5rem;
-    color: var(--mario-red);
+    color: var(--coin-gold);
     letter-spacing: 2px;
     text-shadow: var(--shadow-pop);
 }
 
 .logo span {
-    color: var(--luigi-green);
+    color: var(--coin-gold);
 }
 
 nav a {
